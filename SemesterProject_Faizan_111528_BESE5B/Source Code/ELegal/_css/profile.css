@@ -1,0 +1,96 @@
+#article_entry {
+	
+}
+
+#article_entry h3 {
+	text-align: left;
+}
+
+#profile_info {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+
+	border: solid 1px black;
+	background-color: #505E67;
+	margin-top:8px;
+	margin-left:5%;
+	width:90%;
+	height: 140px;
+	text-align: center;
+	font-size: 20px;
+}
+
+#profile_info p{
+	padding: 10px;
+	color: #F5F5F5;
+}
+
+#display_pic {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+    
+	float:left;
+	border: solid 1px black;
+	margin-bottom:10px;
+	margin-left:5%;
+	margin-right:5px;
+	margin-top:8px;
+	width:140px;
+	height: 140px;
+
+}
+
+
+
+#article_header {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	border: solid 1px black;
+	background-color: black;
+	width:90%;
+	margin-left:5%;
+	margin-right:5%;
+	
+}
+
+.article_tab {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	display: inline-block;
+	border: solid 1px black;
+	width:50%;
+	height: 40px;
+	text-align: center;
+	font-size: 20px;
+}
+
+#article_div {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	border: solid 3px black;
+	background-color: #d7bdb7;
+	width:90%;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5px;
+}
+
+#my_blog {
+	border-bottom: solid 3px black;
+	margin-left:10px;
+	margin-right:10px;
+	
+}
+
+#new_blog {
+
+	margin-left:10px;
+	margin-right:10px;
+	
+}
+

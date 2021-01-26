@@ -1,0 +1,55 @@
+
+#login_div {
+  border-radius: 25px;
+  border: solid 3px black;
+  background: rgba(54, 25, 25, 0.7);
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 150px;
+  right: 20%;
+}
+
+#login_form {
+	margin-left: 15px;
+	margin-top: 8px;
+}
+
+.create_button, .login_button, .signup_button {
+	width:110px;
+	height:20px;
+	margin-left: 30px;
+	background-color:peachpuff;
+}
+
+.text_box {
+	width:150px;
+	height:20px;
+	margin-left: 10px;
+
+}
+
+input[type=text] { float: none; width: 150px; margin-left:10px; }
+
+#create_div {
+  border-radius: 25px;
+  border: solid 3px black;
+  background: rgba(54, 25, 25, 0.7);
+  width: 200px;
+  height: 90px;
+  position: absolute;
+  top: 400px;
+  right: 20%;
+}
+
+#signup_div {
+  border-radius: 25px;
+  border: solid 3px black;
+  background: rgba(54, 25, 25, 0.7);
+  width: 200px;
+  height: 320px;
+  position: absolute;
+  top: 150px;
+  right: 20%;
+}
+
